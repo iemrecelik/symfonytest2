@@ -1,0 +1,29 @@
+git
+-----
+git config --global user.name "Emre ÇELİK"
+git config --global user.email "iemrecelik@hotmail.com"
+
+git pull origin alpha --allow-unrelated-histories
+
+
+dotenv
+html css support
+path intellisense
+docblock
+getter setters
+intelephense
+intellisense
+namespace
+postman
+prettier
+symfony code snippet
+symfony for vscode
+twig
+twig code snippets
+vue 3 snippets
+vue language feature
+yaml
+
+https://techviewleo.com/install-nginx-with-php-fpm-and-wordpress-on-linux-mint/?expand_article=1#google_vignette
+
+https://blog.devops.dev/mysql-installation-and-configuration-on-linux-mint-a01759a1e30a
